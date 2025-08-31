@@ -1,0 +1,11 @@
+body { background: #0b1220; color: #e8ecf3; }
+.card { background: #131b2e; border: 1px solid rgba(255,255,255,0.06); }
+.navbar { border-bottom: 1px solid rgba(255,255,255,0.08); }
+.dropzone { background: #0f172a; transition: all .15s ease; }
+.dropzone.dragging { outline: 2px dashed #6ea8fe; background:#0c1222; }
+.progress { background: rgba(255,255,255,0.08); }
+.progress-bar { background: linear-gradient(90deg,#0d6efd,#6ea8fe); }
+.lead { color: #d5def0; }
+small, .text-muted { color: #b8c1d9 !important; }
+.btn-primary, .btn-success { border-radius: 12px; }
+ul { margin-bottom: 0; }
